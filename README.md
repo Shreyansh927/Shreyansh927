@@ -1,16 +1,67 @@
-## Hi there 👋
+# Hi, I'm Shreyansh Dixit 👋
 
-<!--
-**Shreyansh927/Shreyansh927** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer building AI-powered applications.
 
-Here are some ideas to get you started:
+🎓 B.Tech Computer Science Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Interested In
+
+* 🤖 AI Agents
+* ⚡ Automation
+* 🌐 Full Stack Development
+* 📄 Document Intelligence Systems
+
+## 🚀 Currently Building
+
+### 📂 DocVault
+
+AI-powered document management platform designed to securely organize, retrieve, and automate document-related workflows.
+
+### Key Features
+
+* 🔐 Secure authentication and access control
+* 📁 Smart document organization
+* 🤝 Folder sharing and collaboration
+* ⏰ Document expiry detection
+* 🤖 AI-powered document assistance
+* ⚙️ Workflow automation
+
+## 🌱 Currently Exploring
+
+* 🔗 LangChain
+* 🧠 LangGraph
+* 🦙 Ollama
+* 🛠️ Agentic AI Systems
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+* React
+* JavaScript
+* HTML
+* CSS
+* Bootstrap
+
+### Backend
+
+* Node.js
+* Express.js
+* SQLite
+* MongoDB
+
+### Tools
+
+* Git
+* GitHub
+* Postman
+* VS Code
+
+## 📫 Connect With Me
+
+* LinkedIn: [www.linkedin.com/in/shreyanshdixit0808](http://www.linkedin.com/in/shreyanshdixit0808)
+* Email: [krishnadixit0808@gmail.com](mailto:krishnadixit0808@gmail.com)
+
+---
+
+⭐ *Always learning, always building.*
