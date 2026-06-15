@@ -8,6 +8,10 @@
 
 </div>
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/Shreyansh927/Shreyansh927/output/github-contribution-grid-snake.svg)
+
 ---
 
 ## 👨‍💻 About Me
